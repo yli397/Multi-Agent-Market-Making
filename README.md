@@ -1,4 +1,4 @@
-# Multi-Agent-for-Market-Making
+# MultiAgent-Reinforcement-Market-Making
 
 
 [RL China](https://www.bilibili.com/video/BV1zk4y117iR)
