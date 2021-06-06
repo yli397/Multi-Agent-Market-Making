@@ -10,3 +10,5 @@
 [Crypto RL](https://github.com/sadighian/crypto-rl)
 
 [mean field Market making video](https://www.youtube.com/watch?v=F1bO2QvrAb8&t=3079s)
+
+[mean field learning algorithm](https://arxiv.org/pdf/1901.09585.pdf)
